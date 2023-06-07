@@ -1,7 +1,5 @@
  Hi, I'm Manu!
  
-
-https://github.com/Manuel-latorre/Manuel-latorre/assets/104037504/bbc868dc-c5da-4c3a-8db9-d3f3c72bbd99
-
+![Hi !](https://github.com/Manuel-latorre/Manuel-latorre/assets/104037504/129046d4-df4c-4c61-bf24-2c30472957ab)
 
 
