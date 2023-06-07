@@ -1,4 +1,4 @@
- Hi there👋. I'm Manu!
+ Hi, I'm Manu!
 
 
 
