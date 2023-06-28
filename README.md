@@ -9,7 +9,7 @@ This is the beginning of a long road!
 
 👨‍💻 I’m currently working on [MyCountry](horrible-maid-production.up.railway.app)
 
-🌱 I’m currently learning **react native and next.js**
+🌱 I’m currently learning **React Native and Typescripy**
 
 📫 How to reach me **manuel.latorre11@gmail.com**
 
