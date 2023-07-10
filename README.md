@@ -7,7 +7,7 @@ I am a creative and confident person, eager to improve and learn new skills. I l
 This is the beginning of a long road!
 
 
-👨‍💻 I’m currently working on [MyCountry](horrible-maid-production.up.railway.app)
+👨‍💻 I’m currently working on my Portfolio
 
 🌱 I’m currently learning **React Native and Typescript**
 
