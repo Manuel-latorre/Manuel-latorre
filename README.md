@@ -9,7 +9,7 @@ This is the beginning of a long road!
 
 👨‍💻 I’m currently working on my Portfolio
 
-🌱 I’m currently learning **React Native and Typescript**
+🌱 I’m currently learning **Angular**
 
 📫 How to reach me **manuel.latorre11@gmail.com**
 
