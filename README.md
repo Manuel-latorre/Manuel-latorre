@@ -41,7 +41,11 @@ This is the beginning of a long road!
 
 <h3 align="left">Frameworks:</h3>
 <div style={{display:"flex", alignItems:"center", flexWrap:"wrap"}}>
-    <p style={{padding:5, borderRadius:20, backgroundColor:red, color:"#ffffff"}}>Chakra UI</p>
+    <p>Chakra UI</p>
+    <p>NextUI</p>
+    <p>Tailwind css</p>
+    <p>Headless UI</p>
+    <p>Spline</p>
 </div>
 
 
