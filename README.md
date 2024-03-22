@@ -7,11 +7,13 @@ I am a creative and confident person, eager to improve and learn new skills. I l
 This is the beginning of a long road!
 
 
-👨‍💻 I’m currently working on my Portfolio
+👨‍💻 I’m currently working in <a href="https://www.linkedin.com/company/tu-mejor-amigo/">TuMejorAmigo</a>
 
-🌱 I’m currently working in React Native App
+🌱 I’m currently learning Next Js
 
 📫 How to reach me **manuel.latorre11@gmail.com**
+
+💻 <a href="https://manuel-latorre.vercel.app/">Visit my Portfolio here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
