@@ -41,7 +41,7 @@ This is the beginning of a long road!
 
 <h3 align="left">Frameworks:</h3>
 <div style={{display:"flex", alignItems:"center", flexWrap:"wrap"}}>
-    <p style={{padding:5, borderRadius:20, backgroundColor:"#4fe6be", color:"#ffffff"}}>Chakra UI</p>
+    <p style={{padding:5, borderRadius:20, backgroundColor:red, color:"#ffffff"}}>Chakra UI</p>
 </div>
 
 
