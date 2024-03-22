@@ -21,11 +21,11 @@ This is the beginning of a long road!
 </p>
 
 <h3 align="left">Languages and tools:</h3>
-<div style={{display:"flex"}}>
+<div style={{display:"flex", alignItems:"center", flexWrap:"wrap"}}>
  <img width="40" height="40" src="https://i.postimg.cc/k4ZTzMq0/html-5-svgrepo-com.png" alt="HTML icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/HkyBK8xd/css-3-svgrepo-com.png" alt="CSS icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/kXZTfv7T/js-svgrepo-com.png" alt="Javascript icon"/>
- <img width="35" height="35" src="https://i.postimg.cc/nrh3wdsP/typescript-icon-svgrepo-com.png" alt="Typescript icon"/>
+ <img width="38" height="38" src="https://i.postimg.cc/nrh3wdsP/typescript-icon-svgrepo-com.png" alt="Typescript icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/4Nn86SRK/react-svgrepo-com.png" alt="React icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/Wp5WJPCL/next-js-svgrepo-com.png" alt="Next Js icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/kMsZFSVH/redux-svgrepo-com.png" alt="Redux icon"/>
