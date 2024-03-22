@@ -20,10 +20,11 @@ This is the beginning of a long road!
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manuel-latorre-936b72223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manuel-latorre-936b72223/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and tools:</h3>
+<h3 align="left">Languages, tools and frameworks:</h3>
 <div style={{display:"flex", alignItems:"center", flexWrap:"wrap"}}>
  <img width="40" height="40" src="https://i.postimg.cc/k4ZTzMq0/html-5-svgrepo-com.png" alt="HTML icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/HkyBK8xd/css-3-svgrepo-com.png" alt="CSS icon"/>
+  <img width="40" height="40" src="https://i.postimg.cc/wMDLJ0s3/tailwind-svgrepo-com.png" alt="tailwind icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/kXZTfv7T/js-svgrepo-com.png" alt="Javascript icon"/>
  <img width="38" height="38" src="https://i.postimg.cc/nrh3wdsP/typescript-icon-svgrepo-com.png" alt="Typescript icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/4Nn86SRK/react-svgrepo-com.png" alt="React icon"/>
@@ -37,15 +38,6 @@ This is the beginning of a long road!
  <img width="40" height="40" src="https://i.postimg.cc/rFYP7LNC/npm-svgrepo-com.png" alt="Npm icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/QCfy8LGD/slack-svgrepo-com.png" alt="Slack icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/J0rFCrFK/trello-color-svgrepo-com.png" alt="Trello icon"/>
-</div>
-
-<h3 align="left">Frameworks:</h3>
-<div style={{display:"flex", alignItems:"center", flexWrap:"wrap"}}>
-    <p>Chakra UI</p>
-    <p>NextUI</p>
-    <p>Tailwind css</p>
-    <p>Headless UI</p>
-    <p>Spline</p>
 </div>
 
 
