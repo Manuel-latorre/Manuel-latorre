@@ -44,7 +44,7 @@ This is the beginning of a long road!
     <img width="40" height="40" src="https://i.postimg.cc/bNv56vkw/tailwind-svgrepo-com.png" alt="tailwind css icon"/>
     <img width="40" height="40" src="https://i.postimg.cc/j5Q11wML/7959704-middle-removebg-preview.png" alt="Chakra UI icon"/>
     <img width="40" height="40" src="https://i.postimg.cc/J4515zwn/Captura-de-pantalla-2024-03-22-111859-removebg-preview.png" alt="Next UI icon"/>
-    <img width="38" height="38" src="https://i.postimg.cc/K8Dc57WC/comseeklogo434970-removebg-preview.png" alt="Headless UI"/>
+    <img width="40" height="40" src="https://i.postimg.cc/K8Dc57WC/comseeklogo434970-removebg-preview.png" alt="Headless UI"/>
    <img width="40" height="40" src="https://i.postimg.cc/g2WkRtgv/spline-logo-removebg-preview.png" alt="Spline icon"/>
    <img width="40" height="40" src="https://i.postimg.cc/dtdVhcjs/shacdn.png" alt="Shadcn icon"/>
 </div>
