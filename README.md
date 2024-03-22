@@ -39,6 +39,35 @@ This is the beginning of a long road!
  <img width="40" height="40" src="https://i.postimg.cc/J0rFCrFK/trello-color-svgrepo-com.png" alt="Trello icon"/>
 </div>
 
+<h3 align="left">Frameworks:</h3>
+<div style={{display:"flex", alignItems:"center", flexWrap:"wrap"}}>
+ <div style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
+  <img width="40" height="40" src="https://i.postimg.cc/bNv56vkw/tailwind-svgrepo-com.png" alt="tailwind css icon"/>
+  <p>Tailwind css</p>
+ </div>
+ <div style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
+    <img width="40" height="40" src="https://i.postimg.cc/j5Q11wML/7959704-middle-removebg-preview.png" alt="Chakra UI icon"/>
+    <p>Chakra UI</p>
+ </div>
+  <div style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
+    <img width="40" height="40" src="https://i.postimg.cc/J4515zwn/Captura-de-pantalla-2024-03-22-111859-removebg-preview.png" alt="Next UI icon"/>
+    <p>Next UI</p>
+ </div>
+  <div style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
+    <img width="38" height="38" src="https://i.postimg.cc/K8Dc57WC/comseeklogo434970-removebg-preview.png" alt="Headless UI"/>
+    <p>Headless UI</p>
+ </div>
+  <div style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
+   <img width="40" height="40" src="https://i.postimg.cc/g2WkRtgv/spline-logo-removebg-preview.png" alt="Spline icon"/>
+  <p>Spline</p>
+ </div>
+ <div style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
+   <img width="40" height="40" src="https://i.postimg.cc/dtdVhcjs/shacdn.png" alt="Shadcn icon"/>
+  <p>Shadcn</p>
+ </div>
+
+</div>
+
 
 
 
