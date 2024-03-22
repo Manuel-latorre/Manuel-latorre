@@ -21,7 +21,7 @@ This is the beginning of a long road!
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img width="30" height="30" src="https://i.postimg.cc/k4ZTzMq0/html-5-svgrepo-com.png" alt="HTML icon"/>
+<img width="40" height="40" src="https://i.postimg.cc/k4ZTzMq0/html-5-svgrepo-com.png" alt="HTML icon"/>
 
 
 
