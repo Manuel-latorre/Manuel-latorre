@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manu</h1>
- 
-![Diseño sin título (2)](https://github.com/Manuel-latorre/Manuel-latorre/assets/104037504/19ad9747-9890-4006-94a2-9b1151ea2f95)
+<h1 align="center">Hi 👋, I'm Manu and i'm a Fullstack Developer</h1>
 
 My experience covers both Frontend and Backend, which allows me to offer complete solutions. I always seek to continue learning technologies that impact the world of programming
 
