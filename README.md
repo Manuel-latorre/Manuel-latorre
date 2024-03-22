@@ -40,7 +40,7 @@ This is the beginning of a long road!
 </div>
 
 <h3 align="left">Frameworks:</h3>
-<div style={{display:"flex", alignItems:"center", flexWrap:"wrap"}}>
+<div style={{display:"flex", alignItems:"center"}}>
  <div style={{display:"flex", flexDirection:"column", alignItems:"center"}}>
   <img width="40" height="40" src="https://i.postimg.cc/bNv56vkw/tailwind-svgrepo-com.png" alt="tailwind css icon"/>
   <p>Tailwind css</p>
