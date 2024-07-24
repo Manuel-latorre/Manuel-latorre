@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Manu and i'm a Fullstack Developer</h1>
+<h1 align="center">Hi 👋, I'm Manu and i'm a Fullstack Web Developer</h1>
 
-My experience covers both Frontend and Backend, which allows me to offer complete solutions. I always seek to continue learning technologies that impact the world of programming
+I have experience in developing various types of applications, including websites and data management platforms. My focus is on creating technological solutions that enhance efficiency and user experience.
 
-This is the beginning of a long road!
-
-
-👨‍💻 I’m currently working in <a href="https://www.linkedin.com/company/tu-mejor-amigo/">TuMejorAmigo</a>
-
-🌱 I’m currently learning Next Js
+👨‍💻 I’m currently working in <a href="https://www.linkedin.com/company/tualo/posts/?feedView=all">Tualo</a>
 
 📫 How to reach me **manuel.latorre11@gmail.com**
 
@@ -22,7 +17,7 @@ This is the beginning of a long road!
 <div style={{display:"flex", alignItems:"center", flexWrap:"wrap"}}>
  <img width="40" height="40" src="https://i.postimg.cc/k4ZTzMq0/html-5-svgrepo-com.png" alt="HTML icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/HkyBK8xd/css-3-svgrepo-com.png" alt="CSS icon"/>
-  <img width="40" height="40" src="https://i.postimg.cc/wMDLJ0s3/tailwind-svgrepo-com.png" alt="tailwind icon"/>
+ <img width="40" height="40" src="https://i.postimg.cc/wMDLJ0s3/tailwind-svgrepo-com.png" alt="tailwind icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/kXZTfv7T/js-svgrepo-com.png" alt="Javascript icon"/>
  <img width="38" height="38" src="https://i.postimg.cc/nrh3wdsP/typescript-icon-svgrepo-com.png" alt="Typescript icon"/>
  <img width="40" height="40" src="https://i.postimg.cc/4Nn86SRK/react-svgrepo-com.png" alt="React icon"/>
