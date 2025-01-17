@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Manu and i'm a Fullstack Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Manu and i'm a Frontend Developer</h1>
 
-I have experience in developing various types of applications, including websites and data management platforms. My focus is on creating technological solutions that enhance efficiency and user experience.
+Systems Engineering student and Fullstack Developer at TualoPassionate about optimizing processes, enhancing user experiences, and tackling diverse tech challenges.
 
 👨‍💻 I’m currently working in <a href="https://www.linkedin.com/company/tualo/posts/?feedView=all">Tualo</a>
 
 📫 How to reach me **manuel.latorre11@gmail.com**
 
-💻 <a href="https://manuel-latorre.vercel.app/">Visit my Portfolio here!</a>
+💻 <a href="https://www.manuellatorre.com/">Visit my Portfolio here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
