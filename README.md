@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manu — Frontend</h1>
+<h1 align="center">Hi 👋, I'm Manu — Frontend Developer</h1>
 
 <p align="center">
 🎓 Systems Engineering student • 🧠 Passionate about creating intuitive user interfaces and efficient digital experiences. <br />
@@ -36,14 +36,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zotero&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-#### Databases & Auth
+#### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
