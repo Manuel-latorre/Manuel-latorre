@@ -37,10 +37,7 @@
 <p align="center">
 </p>
 
----
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-latorre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=Manuel-latorre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-latorre&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 ## 🚀 Featured Projects
 
