@@ -12,8 +12,6 @@
 
 ### 🎓 Systems Engineering Student • 🧠 UI/UX Enthusiast • 🚀 Performance Focused
 
-**💼 Former Fullstack Developer at [Tualo](https://www.linkedin.com/company/tualo/posts/?feedView=all) • Freelancer for Global Clients**
-
 *Transforming complex ideas into intuitive, scalable digital experiences*
 
 
