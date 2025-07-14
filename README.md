@@ -36,7 +36,7 @@
 
 ### 📚 Educación
 
-- 🎓 **Ingeniería en Sistemas** — CAECE *(En progreso)*
+🎓 **Ingeniería en Sistemas** — CAECE *(En progreso)*
 
 ### 🥇 Certificaciones
 
