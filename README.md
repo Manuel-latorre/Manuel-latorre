@@ -1,68 +1,50 @@
-<div align="center">
+<div>
 
-# 👋 Hi, I'm **Manu** — Frontend Developer
+# 👋 Hola! Soy Manuel Latorre
+### 🚀 Desarrollador Frontend - 👨‍🎓 Estudiante de Ingeniería en Sistemas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+Next.js;Systems+Engineering+Student;Passionate+about+Clean+UI%2FUX;Building+Scalable+Web+Applications" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🎓 Systems Engineering Student • 🧠 UI/UX Enthusiast • 🚀 Performance Focused
-
-*Transforming complex ideas into intuitive, scalable digital experiences*
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Frontend+Developer+%7C+React+%26+Next.js;Systems+Engineering+Student;Passionate+about+Clean+UI%2FUX;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
 </div>
 
 
-
-### 🧠 About Me
-
-- 💻 Frontend Developer with **2 years** of experience building web applications using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
-- 🔍 Passionate about turning complex ideas into intuitive, scalable, and maintainable digital experiences.
-- 🧩 Strong experience in **design implementation**, **data visualization**, **CMS creation**, and **API integrations**.
-
----
+<div>
 
 
+*Transformando ideas complejas en experiencias digitales intuitivas y escalables*
 
-### 🚀 Languages & Frameworks
+</div>
+
+
+💻 Soy Desarrollador de Software enfocado precisamente en el Frontend. Cuento con 2 años de experiencia trabajando tanto en startups como en proyectos freelance para clientes globales.
+
+
+
+### 🚀 Tecnologías y Herramientas
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,next,nodejs,postgresql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,next,nodejs,postgresql,docker" />
   </a>
-<p align="center">
-</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-latorre&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🏢 Tualo** | Automated report generation with OpenAI integration. Reduced manual workflows by 80-90% | NextJs, Typescript, OpenAI API |
-| **🏠 Yacobian** | Full-stack property dashboard with authentication and CRUD operations | Next.js, Tailwindcss, Supabase, TypeScript |
-| **🎨 Diarc Studio** | SEO-optimized website with custom CMS and clean architecture | Next.js, Tailwind CSS, CMS |
-| **🐕 Tu Mejor Amigo** | Mobile app for pet adoption with focus on UI/UX | React Native, Typescript |
-
+  
+  ### 📊 Mis stats
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manuel-latorre&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Manuel latorre stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-latorre&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Manuel latorre stats" />
 </div>
 
-### 📚 Education
 
-- 🎓 **Systems Engineering** — CAECE University *(In progress)*
-- 📜 Certifications in:
+### 📚 Educación
+
+- 🎓 **Ingeniería en Sistemas** — CAECE *(En progreso)*
+- 📜 Certificaciones en:
   - Fullstack Web Development (Henry Bootcamp)
   - JavaScript & Web Development (Coderhouse)
   - Next.js (Udemy)
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Concetemos!
 
 <div align="">
 
