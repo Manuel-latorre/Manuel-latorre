@@ -37,23 +37,35 @@
 ### 📚 Educación
 
 - 🎓 **Ingeniería en Sistemas** — CAECE *(En progreso)*
-- 📜 Certificaciones en:
-  - Fullstack Web Development (Henry Bootcamp)
-  - JavaScript & Web Development (Coderhouse)
-  - Next.js (Udemy)
+
+### 🥇 Certificaciones
+
+🔗 [Next.js (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bdb0ceaf-72ba-403e-be10-b6c07180bd2e.pdf)  
+🔗 [Fullstack Web Development (Henry Bootcamp)](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=40eb3a43f4e99e01b4d8da0200a95313da96dcccbad692874374098e18a3ea62)  
+🔗 [JavaScript (Coderhouse)](https://pub.coderhouse.com/legacy-certificates/6330864317e95b000e749fc0?lang=es)  
+🔗 [Web Development (Coderhouse)](https://pub.coderhouse.com/legacy-certificates/628e91de29515c00200abd3b?lang=es)
+
+
 
 ---
 
-## 📫 Concetemos!
+## 🌐 Mi sitio web
 
-<div align="">
+  🔗 <a href="https://www.manuellatorre.com/">
+   Portfolio
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuel.latorre11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.manuellatorre.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-latorre-frontend-developer/)
+  
+## 📫 Conectemos!
 
+<div align="start">
+  <a href="mailto:manuel.latorre11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/manuel-latorre-frontend-developer/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </div>
-
 
 
 
