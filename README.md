@@ -16,7 +16,9 @@
 </div>
 
 
-💻 Soy Desarrollador de Software enfocado precisamente en el Frontend. Cuento con 2 años de experiencia trabajando tanto en startups como en proyectos freelance para clientes globales.
+💻 Soy Desarrollador Frontend con +2 años de experiencia construyendo aplicaciones escalables y de alto rendimiento en startups y
+proyectos freelance. Especializado en React, Next.js y TypeScript, con un fuerte enfoque en la optimización del rendimiento,
+diseño responsivo y experiencias de usuario intuitivas.
 
 
 
