@@ -3,7 +3,7 @@
 # 👋 Hola! Soy Manuel Latorre
 ### 🚀 Fullstack Developer - 👨‍🎓 Estudiante de Ingeniería en Sistemas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Fullstack+Developer+%7C+React+%26+Next.js;Systems+Engineering+Student;Passionate+about+Clean+UI%2FUX;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Fullstack+Developer+%7C+React+%26+Next.js;Systems+Engineering+Student;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -64,7 +64,7 @@ diseño responsivo y experiencias de usuario intuitivas.
   <a href="mailto:manuel.latorre11@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/manuel-latorre-frontend-developer/">
+  <a href="https://www.linkedin.com/in/manuel-latorre-fullstack/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
