@@ -1,9 +1,9 @@
 <div>
 
 # 👋 Hola! Soy Manuel Latorre
-### 🚀 Desarrollador Frontend - 👨‍🎓 Estudiante de Ingeniería en Sistemas
+### 🚀 Fullstack Developer - 👨‍🎓 Estudiante de Ingeniería en Sistemas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Frontend+Developer+%7C+React+%26+Next.js;Systems+Engineering+Student;Passionate+about+Clean+UI%2FUX;Building+Scalable+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Fullstack+Developer+%7C+React+%26+Next.js;Systems+Engineering+Student;Passionate+about+Clean+UI%2FUX;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
 </div>
 
@@ -16,8 +16,8 @@
 </div>
 
 
-💻 Soy Desarrollador Frontend con +2 años de experiencia construyendo aplicaciones escalables y de alto rendimiento en startups y
-proyectos freelance. Especializado en React, Next.js y TypeScript, con un fuerte enfoque en la optimización del rendimiento,
+💻 Soy Desarrollador Fullstack con +2 años de experiencia construyendo aplicaciones escalables y de alto rendimiento en startups y
+proyectos freelance. Especializado en React, Next.js, TypeScript y NodeJs con un fuerte enfoque en la optimización del rendimiento,
 diseño responsivo y experiencias de usuario intuitivas.
 
 
@@ -25,7 +25,7 @@ diseño responsivo y experiencias de usuario intuitivas.
 ### 🚀 Tecnologías y Herramientas
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,next,nodejs,postgresql,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,next,nodejs,nestjs,postgresql,mongodb,docker" />
   </a>
 
   
@@ -54,7 +54,7 @@ diseño responsivo y experiencias de usuario intuitivas.
 ## 🌐 Mi sitio web
 
   🔗 <a href="https://www.manuellatorre.com/">
-   Portfolio
+   manuellatorre.com
   </a>
 
   
