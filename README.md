@@ -1,46 +1,34 @@
 <div>
 
-# 👋 Hola! Soy Manuel Latorre
-### 🚀 Fullstack Developer - 👨‍🎓 Estudiante de Ingeniería en Sistemas
+# 👋 Hi! I' am Manuel Latorre
+### 🚀 Fullstack Developer - 👨‍🎓 Systems Engineering Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=600&lines=Fullstack+Developer+%7C+React+%26+Next.js;Systems+Engineering+Student;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
 </div>
 
 
-<div>
-
-
-*Transformando ideas complejas en experiencias digitales intuitivas y escalables*
-
-</div>
-
-
-💻 Soy Desarrollador Fullstack con +2 años de experiencia construyendo aplicaciones escalables y de alto rendimiento en startups y
-proyectos freelance. Especializado en React, Next.js, TypeScript y NodeJs con un fuerte enfoque en la optimización del rendimiento,
-diseño responsivo y experiencias de usuario intuitivas.
+💻 Fullstack Developer with +2 years of experience in end-to-end development of scalable, high-performance applications
+for startups and freelance projects. Specialized in React, Next.js, TypeScript, and Node.js with a strong focus on
+performance optimization, responsive design, and intuitive user experiences.
 
 
 
-### 🚀 Tecnologías y Herramientas
+### 🚀 Technologies & Tools
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,next,nodejs,nestjs,postgresql,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,next,nodejs,nestjs,postgresql,mongodb,docker,aws,vercel" />
   </a>
 
   
-  ### 📊 Mis stats
+  ### 📊 My stats
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=Manuel-latorre&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Manuel latorre stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-latorre&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Manuel latorre stats" />
 </div>
 
 
-### 📚 Educación
-
-🎓 **Ingeniería en Sistemas** — CAECE *(En progreso)*
-
-### 🥇 Certificaciones
+### 🥇 Certifications
 
 🔗 [Next.js (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bdb0ceaf-72ba-403e-be10-b6c07180bd2e.pdf)  
 🔗 [Fullstack Web Development (Henry Bootcamp)](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=40eb3a43f4e99e01b4d8da0200a95313da96dcccbad692874374098e18a3ea62)  
@@ -51,7 +39,7 @@ diseño responsivo y experiencias de usuario intuitivas.
 
 ---
 
-## 🌐 Mi sitio web
+## 🌐 My website
 
   🔗 <a href="https://www.manuellatorre.com/">
    manuellatorre.com
