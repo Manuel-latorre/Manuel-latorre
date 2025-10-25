@@ -28,14 +28,6 @@ performance optimization, responsive design, and intuitive user experiences.
 </div>
 
 
-### 🥇 Certifications
-
-🔗 [Next.js (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bdb0ceaf-72ba-403e-be10-b6c07180bd2e.pdf)  
-🔗 [Fullstack Web Development (Henry Bootcamp)](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=40eb3a43f4e99e01b4d8da0200a95313da96dcccbad692874374098e18a3ea62)  
-🔗 [JavaScript (Coderhouse)](https://pub.coderhouse.com/legacy-certificates/6330864317e95b000e749fc0?lang=es)  
-🔗 [Web Development (Coderhouse)](https://pub.coderhouse.com/legacy-certificates/628e91de29515c00200abd3b?lang=es)
-
-
 
 ---
 
