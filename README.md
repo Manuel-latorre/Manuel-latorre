@@ -38,7 +38,7 @@ performance optimization, responsive design, and intuitive user experiences.
   </a>
 
   
-## 📫 Conectemos!
+## 📫 Let's talk!
 
 <div align="start">
   <a href="mailto:manuel.latorre11@gmail.com">
