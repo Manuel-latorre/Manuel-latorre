@@ -20,14 +20,6 @@ performance optimization, responsive design, and intuitive user experiences.
     <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,react,next,nodejs,nestjs,postgresql,mongodb,docker,aws,vercel" />
   </a>
 
-  
-  ### 📊 My stats
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manuel-latorre&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Manuel latorre stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-latorre&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Manuel latorre stats" />
-</div>
-
-
 
 ---
 
